@@ -1,0 +1,11 @@
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
